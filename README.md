@@ -1,7 +1,6 @@
 ### ✋ Hi!
-Computer Science, KyungHee University
-
-ADsP, Engineer Information Processing
+* Computer Science, KyungHee University
+* ADsP, Engineer Information Processing
 <br></br>
 
 ### 💪 Skills 
@@ -11,15 +10,13 @@ ADsP, Engineer Information Processing
 
 ### 🗂 Projects
 
-[Capstone Design](https://github.com/MS1027/subwayapp)
-
-[Position Classification by Multi-Label Classification](https://github.com/MS1027/Position_Classification)
+* [Capstone Design](https://github.com/MS1027/subwayapp)
+* [Position Classification by Multi-Label Classification](https://github.com/MS1027/Position_Classification)
 <br></br>
 
 ### 📖 Learned
-[Data Analysis by Python](https://github.com/MS1027/Data_Analysis)
-
-[Tableau](https://public.tableau.com/app/profile/minsik.shin/vizzes)
+* [Data Analysis by Python](https://github.com/MS1027/Data_Analysis)
+* [Tableau](https://public.tableau.com/app/profile/minsik.shin/vizzes)
 
 <!--
 emoji https://www.iemoji.com/
