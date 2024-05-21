@@ -17,7 +17,7 @@ ADsP, Engineer Information Processing
 <br></br>
 
 ### 📖 Learned
-[Data Analysis by Python]()
+[Data Analysis by Python](https://github.com/MS1027/Data_Analysis)
 
 [Tableau](https://public.tableau.com/app/profile/minsik.shin/vizzes)
 
