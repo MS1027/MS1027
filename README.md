@@ -11,15 +11,15 @@ ADsP, Engineer Information Processing
 
 ### 🗂 Projects
 
-Capstone Design
+[Capstone Design](https://github.com/MS1027/subwayapp)
 
-Position Classification by Multi-Label Classification
+[Position Classification by Multi-Label Classification](https://github.com/MS1027/Position_Classification)
 <br></br>
 
 ### 📖 Learned
-Data Analysis by Python 
+[Data Analysis by Python]()
 
-Tableau
+[Tableau](https://public.tableau.com/app/profile/minsik.shin/vizzes)
 
 <!--
 emoji https://www.iemoji.com/
