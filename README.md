@@ -1,6 +1,6 @@
 ### ✋ Hi!
 * Computer Science, KyungHee University
-* ADsP, Engineer Information Processing
+* ADsP
 <br></br>
 
 ### 💪 Skills 
