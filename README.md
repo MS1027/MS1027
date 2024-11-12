@@ -1,7 +1,7 @@
 ### ✋ Hi!
 * Computer Science, KyungHee University
 * ADsP
-* 정보처리기사
+* Engineer Information Processing
 <br></br>
 
 ### 💪 Skills 
